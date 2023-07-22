@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![Alt text](images/screenshot-mobile.png)
 
 ### Links
-- Live Site URL: [Add live site URL here]
+- [Live Site URL: [Add live site URL here]](https://yacodingroom.github.io/Profile-card-component/)
 
 ## My process
 ### Built with
