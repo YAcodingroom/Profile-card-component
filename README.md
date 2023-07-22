@@ -36,7 +36,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 All about position.
 
 ## Author
-- Website - YAL
 - Frontend Mentor - [@YAcodingroom]
 (https://www.frontendmentor.io/profile/YAcodingroom)
 - Threads - [@nt19_lya](https://www.threads.net/@nt19_lya)
